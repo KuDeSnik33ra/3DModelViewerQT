@@ -1,0 +1,11 @@
+/.vs
+/build
+/bin
+
+# debug qt libraries
+/bin/imageformats/q*d.dll
+/bin/platforms/qwindowsd.dll
+/bin/Qt5*d.dll
+/bin/styles/qwindowsvistastyled.dll
+# debug binaries
+/bin/*64d.*
