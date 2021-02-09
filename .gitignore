@@ -1,6 +1,5 @@
 /.vs
 /build
-/bin
 
 # debug qt libraries
 /bin/imageformats/q*d.dll
